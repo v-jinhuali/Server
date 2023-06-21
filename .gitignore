@@ -1,0 +1,66 @@
+# 编译生成的文件
+bin/
+obj/
+
+# Visual Studio 文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# 编辑器配置文件
+*.vscode/
+*.sln.ide
+
+# NuGet 包文件
+packages/
+
+# 自定义文件
+*.config
+*.dll
+*.exe
+
+# 缓存和日志文件
+*.log
+*.cache
+*.bak
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 编译器生成的文件
+[Dd]ebug/
+[Rr]elease/
+
+# Mac OS 文件
+.DS_Store
+
+# JetBrains Rider IDE 文件
+.idea/
+*.sln.iml
+
+# Visual Studio Code 文件
+.vscode/
+
+# 编译工具生成的文件
+[Tt]ools/
+[Rr]oslyn/
+
+# 自动化测试生成的文件
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults*/
+[Tt]est[Ss]tartup/
+
+# 编辑器/IDE 工作区文件
+*.suo
+*.user
+*.sln.docstates
+
+# 构建日志
+msbuild.log
+msbuild.err
+
+# GitVersion 版本管理文件
+.GitVersion
